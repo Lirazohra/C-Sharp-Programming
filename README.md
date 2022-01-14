@@ -1,3 +1,3 @@
 # C-Sharp-Programming
 
-Tec Football Club Ticketting !!
+TEC Football Club Ticketting !!
